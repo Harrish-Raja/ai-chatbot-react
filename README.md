@@ -1,12 +1,45 @@
-# React + Vite
+# 🚀 AI Chatbot Powered by Gemini API | ReactJS | Lottie | Axios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to a cutting-edge conversational AI chatbot built using **ReactJS** and integrated with **Google's Gemini 2.0 API**, designed to simulate intelligent, real-time, human-like interactions through the browser. This project leverages powerful tools in modern web development and AI to demonstrate seamless API integration, interactive UI design, and conversational UX.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 What This Project Does
 
-## Expanding the ESLint configuration
+This chatbot isn't just another bot—it uses **Google’s Generative Language Model (Gemini)** to process natural language input and generate smart, relevant, and contextual replies. It delivers:
+- Real-time interaction
+- Human-like conversation flow
+- Smooth and responsive UI
+- Clean and maintainable codebase
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack Breakdown
+
+| Technology | Purpose |
+|------------|---------|
+| 🟦 ReactJS | Frontend framework for building reusable components and dynamic UI |
+| 📬 Axios | Handles all HTTP requests to the Gemini API with ease |
+| 🎨 Lottie | Adds rich, high-performance animations for delightful UI |
+| 🌐 Gemini API | Powers the AI brain of the chatbot using Google’s generative model |
+| 📁 Vite | Super-fast frontend tooling for rapid development and HMR |
+| 🔐 .env | Securely stores your API key and environment-specific variables |
+
+---
+
+## ✨ Features
+
+- 🔹 **Real-time AI Responses** with Gemini 2.0
+- 🔹 **Visually Engaging** interface using Lottie animations
+- 🔹 **Fast and Lightweight** development using Vite
+- 🔹 **Easy Customization** with modular component-based architecture
+- 🔹 **Scalable Codebase** for future enhancements (voice input, chat history, etc.)
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/ai-chatbot-gemini-react.git
+   cd ai-chatbot-gemini-react
