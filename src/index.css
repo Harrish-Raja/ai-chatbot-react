@@ -1,0 +1,30 @@
+:root {
+
+}
+
+body {
+  background-color: #e5e6f2;
+  color: #323250;
+  height: 100vh;
+}
+
+.suggestion-card {
+  padding: 15px;
+  cursor: pointer;
+}
+
+.user-response-messages {
+  text-align: right;
+  max-width: 50%;
+  padding: 10px 5px;
+  margin: 10px 0px;
+  background-color: gray;
+}
+
+.AI-response-messages {
+  text-align: left;
+  max-width: 50%;
+  padding: 10px 5px;
+  margin: 10px 0px;
+  background-color: white;
+}
