@@ -4,6 +4,11 @@ Welcome to a cutting-edge conversational AI chatbot built using **ReactJS** and 
 
 ---
 
+# Chatbot UI
+![Chatbot UI](https://raw.githubusercontent.com/Harrish-Raja/ai-chatbot-react/main/src/assets/chat-ui.png)
+
+
+
 ## 🧠 What This Project Does
 
 This chatbot isn't just another bot—it uses **Google’s Generative Language Model (Gemini)** to process natural language input and generate smart, relevant, and contextual replies. It delivers:
