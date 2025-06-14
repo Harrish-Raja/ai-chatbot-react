@@ -8,7 +8,7 @@ import axios from 'axios'
 
 function App() {
 
-  const ai_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCrUKshq4q12CjKe9SpmMJ-j26rLv7c5ek"
+  const ai_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GeminiApikey"
   const [suggestions, setSuggestions] = useState([
     "what is react?", "what is javascript?", "How to build ai chatbot?"
   ])
