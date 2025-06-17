@@ -38,7 +38,7 @@ This chatbot isn't just another bot—it uses **Google’s Generative Language M
 - 🔹 **Visually Engaging** interface using Lottie animations  
 - 🔹 **Fast and Lightweight** development using Vite  
 - 🔹 **Easy Customization** with modular component-based architecture  
-- 🔹 **Scalable Codebase** for future enhancements (voice input, chat history, etc.)
+- 🔹 **Scalable Codebase** for the future enhancements (voice input, chat history, etc.)
 
 ---
 
