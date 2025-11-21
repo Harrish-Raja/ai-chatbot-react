@@ -2,6 +2,8 @@
 
 Welcome to a cutting-edge conversational AI chatbot built using **ReactJS** and integrated with **Google's Gemini 2.0 API**, designed to simulate intelligent, real-time, human-like interactions through the browser. This project leverages powerful tools in modern web development and AI to demonstrate seamless API integration, interactive UI design, and conversational UX.
 
+Live Link : ![link](https://ai-chatbot-harrish.netlify.app/)
+
 ---
 
 # Chatbot UI
